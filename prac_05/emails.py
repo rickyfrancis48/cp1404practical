@@ -1,7 +1,7 @@
 """
 Emails
-Estimate: 20 minutes
-Actual:   32 minutes
+Estimate: 60 minutes
+Actual:   90 minutes
 """
 
 
@@ -10,7 +10,6 @@ def main():
     abort = False
     while not abort:
         email = input("Email: ")
-        # email = "ricky.francis@my.jcu.ecu.au"
         if email == "":
             abort = True
         else:
