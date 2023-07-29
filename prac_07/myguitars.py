@@ -8,7 +8,7 @@ def main():
     in_file.readline()
     for line in in_file:
         part = line.strip().split(',')
-        guitar = Guitar(part[0], part[1], part[2])
+        guitar = Guitar(part[0], part[1], float(part[2]))
         guitars.append(guitar)
     in_file.close()
 
