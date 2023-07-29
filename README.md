@@ -1,3 +1,6 @@
 # CP1404 Practicals
+## Ricky Francis
 
-Practical work for IT@JCU CP1404
+I'm Ricky and I'm studying mechanical engineering. This repository is for the practicals I have completed in CP1404.
+
+https://github.com/CP1404/Starter/wiki/Programming-Patterns
